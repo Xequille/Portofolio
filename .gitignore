@@ -1,0 +1,6 @@
+.claude/
+.wrangler/
+node_modules/
+__pycache__/
+Thumbs.db
+.DS_Store
